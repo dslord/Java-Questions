@@ -1,2 +1,2 @@
 # Java-Questions
-Java Questions.
+Solving Java Questions.
