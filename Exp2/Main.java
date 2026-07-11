@@ -48,9 +48,9 @@ public class Main {
 
         // Learning static and final variable difference
         System.out.println("\nLearning static and final variable difference : ");
-        Counter c1 = new Counter();
-        Counter c2 = new Counter();
-        Counter c3 = new Counter();
+        new Counter();
+        new Counter();
+        new Counter();
     
         System.out.println("Counter : " + Counter.count);
 
