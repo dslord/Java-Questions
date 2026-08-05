@@ -1,4 +1,3 @@
-// Develop an E-Commerce Product System where electronic, clothing, and grocery products inherit common properties and implement product interfaces.
 package Exp7.Exercise;
 
 interface Product {

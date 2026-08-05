@@ -1,4 +1,3 @@
-// Create a Shape application where Circle and Rectangle inherit from Shape and calculate area.
 package Exp7.Exercise;
 
 class Shape {
