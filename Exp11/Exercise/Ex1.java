@@ -1,4 +1,3 @@
-// Create an interface Printable and implement it in Student and Employee classes.
 package Exp11.Exercise;
 
 interface Printable {
