@@ -1,4 +1,3 @@
-// Create a Student class using default and parameterized constructors to initialize student name and roll number.
 package Exp2.Exercise;
 
 class Student {

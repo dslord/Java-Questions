@@ -1,4 +1,3 @@
-// Develop a Mobile Phone Inventory System using different constructors to initialize mobile details and create duplicate object records.
 package Exp2.Exercise;
 
 class Mobile {
