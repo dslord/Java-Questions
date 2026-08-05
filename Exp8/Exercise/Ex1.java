@@ -1,4 +1,3 @@
-// Create an Employee and Manager program where Manager accesses Employee details using super keyword.
 package Exp8.Exercise;
 
 class Employee {

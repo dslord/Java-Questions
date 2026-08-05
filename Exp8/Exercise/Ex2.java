@@ -1,4 +1,3 @@
-// Develop a Vehicle Insurance System where child insurance classes access parent vehicle information using the super keyword.
 package Exp8.Exercise;
 
 class Vehicle {
