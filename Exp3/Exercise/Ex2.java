@@ -1,5 +1,3 @@
-// Develop a Restaurant Billing Application where overloaded methods.
-// calculate bills for dine-in, takeaway, and delivery orders, while static variables track total orders.
 package Exp3.Exercise;
 
 import java.util.Scanner;

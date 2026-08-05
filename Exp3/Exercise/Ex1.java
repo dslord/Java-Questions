@@ -1,4 +1,3 @@
-// Develop a Calculator program using overloaded methods for addition of integers and decimals. Use a static variable to count calculations.
 package Exp3.Exercise;
 
 import java.util.Scanner;
