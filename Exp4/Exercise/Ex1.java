@@ -1,4 +1,3 @@
-// Create a program to convert student marks from String format to Integer and calculate total marks.
 package Exp4.Exercise;
 
 public class Ex1 {

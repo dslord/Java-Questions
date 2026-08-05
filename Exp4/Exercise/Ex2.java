@@ -1,5 +1,3 @@
-// Develop an Employee Payroll System that accepts employee IDs, basic salary, and bonus amounts from the user.
-// Convert the entered values into wrapper objects and perform validation operations to ensure valid salary values before calculating the net salary.
 package Exp4.Exercise;
 
 import java.util.Scanner;
