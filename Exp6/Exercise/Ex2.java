@@ -1,4 +1,3 @@
-// Develop a Food Delivery Application where an inner class handles order details and anonymous classes handle delivery status updates.
 package Exp6.Exercise;
 
 interface DeliveryStatus {

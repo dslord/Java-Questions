@@ -1,4 +1,3 @@
-// Create a Vehicle program where an inner class displays vehicle details and anonymous class performs an action.
 package Exp6.Exercise;
 
 interface Action {
