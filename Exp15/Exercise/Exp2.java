@@ -1,5 +1,3 @@
-// Create an ATM PIN Verification program that throws an exception for an
-// invalid PIN entered by the user and uses a finally block to display a message indicating that the verification process has completed.
 package Exp15.Exercise;
 
 import java.util.Scanner;

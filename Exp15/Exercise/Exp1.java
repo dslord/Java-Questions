@@ -1,4 +1,3 @@
-// Create a Login program that throws an exception for invalid password and uses finally block.
 package Exp15.Exercise;
 
 import java.util.Scanner;
