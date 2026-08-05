@@ -1,5 +1,3 @@
-// Create an abstract FoodOrder class with an abstract method calculate Bill().
-// Implement two subclasses, DineInOrder and TakeAwayOrder, to calulate and display the total bill based on the order type.
 package Exp10.Exercise;
 
 abstract class FoodOrder {

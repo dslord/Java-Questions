@@ -1,4 +1,3 @@
-// Create an abstract Payment class and implement Credit Card and UPI payment classes
 package Exp10.Exercise;
 
 abstract class Payment {
