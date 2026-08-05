@@ -1,6 +1,3 @@
-// Create an Online Shopping program that handles an invalid product quantity entered by the user using a try-catch block.
-// Display an appropriate error message if the quantity is less than or equal to zero.
-
 import java.util.Scanner;
 
 public class Exp2 {

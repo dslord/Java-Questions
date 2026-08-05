@@ -1,5 +1,3 @@
-// Create an ATM program handling invalid withdrawal amount using try-catch.
-
 import java.util.Scanner;
 
 public class Exp1 {
