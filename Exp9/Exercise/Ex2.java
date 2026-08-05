@@ -1,5 +1,3 @@
-// Create a Library Book Management program where the book ISBN is declared as final 
-// and cannot be changed once assigned. Display the book's ISBN, title, author, and price.
 package Exp9.Exercise;
 
 class Book {

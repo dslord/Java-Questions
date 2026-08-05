@@ -1,4 +1,3 @@
-// Create a Bank Account program where account number is final and cannot be changed.
 package Exp9.Exercise;
 
 class BankAccount {
