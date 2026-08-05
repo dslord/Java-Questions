@@ -1,4 +1,3 @@
-// Create a To-Do List application using ArrayList to store tasks and StringBuffer to display tasks.
 package Exp5.Exercise;
 
 import java.util.ArrayList;
