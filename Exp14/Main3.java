@@ -8,12 +8,13 @@ public class Main3 {
             try {
                 System.out.println("Inner try block started");
                 int result = 10 / 0;
+                System.out.println(result);
             } catch (ArithmeticException e) {
                 System.out.println("Error + " + e.getMessage());
             }
 
-            String str = null;
-            System.out.println(str.length());
+            int result = 10 / 0;
+            System.out.println(result);
         } catch (NullPointerException e) {
             System.out.println("Caught NullPointerException in outer try block : " + e.getMessage());
         } finally {

@@ -7,6 +7,7 @@ public class Main2 {
             int num = Integer.parseInt(str);
 
             int r = 10 / 0;
+            System.out.println(num + r);
         } catch (NumberFormatException | ArithmeticException e) {
             System.out.println("Error : " + e.getClass().getSimpleName() + " occured.");
         }
